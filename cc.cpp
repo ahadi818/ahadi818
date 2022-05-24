@@ -12,7 +12,5 @@ int main()
  d3=b%10;
  sum=d1+d2+d3;
  printf("sum=%d",sum);
- return 0;
-}
- 
-
+ return 0
+ }
